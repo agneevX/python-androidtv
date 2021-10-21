@@ -319,6 +319,8 @@ APP_DISNEY_PLUS = 'com.disney.disneyplus'
 APP_DISNEY_PLUS_HOTSTAR = 'in.startv.hotstar'
 APP_DS_PHOTO = 'com.synology.dsphoto'
 APP_DS_VIDEO = 'com.synology.dsvideo'
+APP_EPICON = 'com.epicchannel.epicon'
+APP_EROS_NOW = 'com.eros.now'
 APP_ES_FILE_EXPLORER = 'com.estrongs.android.pop'
 APP_FACEBOOK = 'com.facebook.katana'
 APP_FAWESOME = 'com.future.moviesByFawesomeAndroidTV'
@@ -361,6 +363,7 @@ APP_PLEX = 'com.plexapp.android'
 APP_PRIME_VIDEO = 'com.amazon.amazonvideo.livingroom'
 APP_PRIME_VIDEO_FIRETV = 'com.amazon.firebat'
 APP_SETTINGS = 'com.android.tv.settings'
+APP_SHEMAROOME = 'com.shemaroo.shemarootv'
 APP_SMART_YOUTUBE_TV = 'com.liskovsoft.videomanager'
 APP_SONY_ACTION_MENU = 'com.sony.dtv.scrums.action'
 APP_SONY_ALBUM = 'com.sony.dtv.osat.album'
@@ -390,6 +393,7 @@ APP_VEVO = 'com.vevo.tv'
 APP_VH1 = 'com.mtvn.vh1android'
 APP_VIMEO = 'com.vimeo.android.videoapp'
 APP_VLC = 'org.videolan.vlc'
+APP_VOOT = 'com.viacom18.tv.voot'
 APP_VOYO = 'com.phonegap.voyo'
 APP_VRV = 'com.ellation.vrv'
 APP_WAIPU_TV = 'de.exaring.waipu.firetv.live'
@@ -417,6 +421,8 @@ APPS = {APP_AE_TV: 'A&E',
         APP_DISNEY_PLUS_HOTSTAR: 'Disney+ Hotstar',
         APP_DS_PHOTO: 'DS photo',
         APP_DS_VIDEO: 'DS video',
+        APP_EPICON: 'EPIC ON',
+        APP_EROS_NOW: 'Eros Now',
         APP_ES_FILE_EXPLORER: 'ES File Explorer',
         APP_FACEBOOK: 'Facebook Watch',
         APP_FAWESOME: 'Fawsome',
@@ -456,6 +462,7 @@ APPS = {APP_AE_TV: 'A&E',
         APP_PLEX: 'Plex',
         APP_PRIME_VIDEO: 'Prime Video',
         APP_PRIME_VIDEO_FIRETV: 'Prime Video (FireTV)',
+        APP_SHEMAROOME: 'ShemarooMe',
         APP_SETTINGS: 'Settings',
         APP_SMART_YOUTUBE_TV: 'Smart YouTube TV',
         APP_SONY_ACTION_MENU: 'Action Menu',
@@ -486,6 +493,7 @@ APPS = {APP_AE_TV: 'A&E',
         APP_VH1: 'VH1',
         APP_VIMEO: 'Vimeo',
         APP_VLC: 'VLC',
+        APP_VOOT: 'Voot',
         APP_VOYO: 'VOYO',
         APP_VRV: 'VRV',
         APP_WAIPU_TV: 'Waipu TV',
